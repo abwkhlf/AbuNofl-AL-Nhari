@@ -51262,13 +51262,13 @@ o.bw(q*0.25,i)
 o.an()
 a.cf(o,f)
 h=g.bE()
-h.cT(q*0.35,m)
+h.cT(q*0.32,m)
 h.bw(q*0.65,k)
 h.bw(l,j)
 h.bw(n,i)
 h.an()
 a.cf(h,s)
-a.Cn(A.abk(new A.y(q*0.5,k),p*0.5,q*0.4),3.14,3.14,!1,r)},
+a.Cn(A.abk(new A.y(q*0.5,p*0.36),m,n),3.14,3.14,!1,r)},
 j2(a){return!1}}
 A.xv.prototype={
 U(a){var s=null
